@@ -1,1 +1,3 @@
-You can run the code with the CLI command: [python final_dashboard.py]
+### Deployment
+
+You can run the code with the CLI command: python final_dashboard.py
