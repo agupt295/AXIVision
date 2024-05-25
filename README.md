@@ -4,19 +4,21 @@ AXI (Advanced eXtensible Interface) is a flexible and comprehensive interface pr
 ## Excel Sheet Requirements
 To use this application, your Excel sheet should be structured with the following headers:
 
-- Header1: Description of the first column.
-- Header2: Description of the second column.
-- Header3: Description of the third column.
-- Header4: Description of the fourth column.
-- Header5: Description of the fifth column.
+- Txn_type: Read/ Write instructions
+- Txn_id: (Integer)
+- Address: (String)
+- Address_type: Fixed/ INCR instructions
+- Number of data bytes: 2^n (Integer)
+- Start time (ns): (Float/ Decimal)
+- End time (ns): (Float/ Decimal)
 
 These headers are essential for the correct functioning of the data analysis features in the application. Make sure your Excel sheet adheres to this format.
 
 ## Front-End Overview:
 The front-end of the application is designed to be user-friendly and intuitive. Below are some images showcasing different parts of the user interface, including various graphs and charts that the application can generate based on the provided data.
 
-<img width="352" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/07e9f9e8-fefe-4d24-a080-5322ff99f120">
-<img width="352" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/01ac533f-a122-46c6-9f2b-b6c43a00e83f">
+<img width="400" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/07e9f9e8-fefe-4d24-a080-5322ff99f120">
+<img width="403" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/01ac533f-a122-46c6-9f2b-b6c43a00e83f">
 
 ## Installation and Usage
 
