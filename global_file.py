@@ -1,7 +1,7 @@
 from PyQt5.QtWidgets import QTabWidget
-from table_layout import Layout1
-from dashboard_layout import Layout2
-from compare_layout import Compare
+from Layout_Pages.table_layout import Layout1
+from Layout_Pages.dashboard_layout import Layout2
+from Layout_Pages.compare_layout import Compare
 
 tabs_bottom = QTabWidget()
 table_obj = Layout1()
