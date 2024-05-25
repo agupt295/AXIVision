@@ -15,8 +15,8 @@ These headers are essential for the correct functioning of the data analysis fea
 ## Front-End Overview:
 The front-end of the application is designed to be user-friendly and intuitive. Below are some images showcasing different parts of the user interface, including various graphs and charts that the application can generate based on the provided data.
 
-<img width="452" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/07e9f9e8-fefe-4d24-a080-5322ff99f120">
-<img width="452" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/01ac533f-a122-46c6-9f2b-b6c43a00e83f">
+<img width="352" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/07e9f9e8-fefe-4d24-a080-5322ff99f120">
+<img width="352" alt="image" src="https://github.com/agupt295/AXIVision/assets/118144312/01ac533f-a122-46c6-9f2b-b6c43a00e83f">
 
 ## Installation and Usage
 
