@@ -3,8 +3,9 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from PyQt5.QtGui import QStandardItemModel, QStandardItem, QFont, QIcon
 from PyQt5.QtCore import QModelIndex
 from PyQt5.QtCore import Qt
-from stats import Stats
-from data import Data
+from Compute_Classes.stats import Stats
+from Compute_Classes.data import Data
+
 import os
 
 class Layout2(QWidget):
